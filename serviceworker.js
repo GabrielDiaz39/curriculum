@@ -2,7 +2,7 @@
 const CACHE_NAME = 'v1_cache_curriculum',
 urlsToCache = [
     'https://gabrieldiaz39.github.io/curriculum/',
-    'https://gabrieldiaz39.github.io/curriculum/html - Diaz Diego -TI51BIS.html',
+    'https://gabrieldiaz39.github.io/curriculum/index.html',
     'https://gabrieldiaz39.github.io/curriculum/script.js',
     'https://gabrieldiaz39.github.io/curriculum/fetch.js',
 ]
