@@ -1,10 +1,10 @@
 ;
 const CACHE_NAME = 'v1_cache_curriculum',
 urlsToCache = [
-    './',
-    './html - Diaz Diego -TI51BIS.html',
-    './script.js',
-    './fetch.js',
+    'https://gabrieldiaz39.github.io/curriculum/',
+    'https://gabrieldiaz39.github.io/curriculum/html - Diaz Diego -TI51BIS.html',
+    'https://gabrieldiaz39.github.io/curriculum/script.js',
+    'https://gabrieldiaz39.github.io/curriculum/fetch.js',
 ]
 
 self.addEventListener('install', e =>{
