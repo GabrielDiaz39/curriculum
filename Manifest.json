@@ -6,7 +6,7 @@
     "theme_color": "#000000",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "https://gabrieldiaz39.github.io/curriculum/index.html",
     "lang": "es-MX",
     "icons": [
         {
